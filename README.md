@@ -5,6 +5,8 @@ A spatially resolved blueprint of the developing human lung reveals a WNT-driven
 Peggy P. Hsu*,1,2,+, Ansley S. Conchola*,3,4, Tristan Frum*,5, Xiangning Dong5, Lila Tudrick2, Varun Ponnusamy5, Yusoo Lee5, Michael S. Downey5, Manqi Wu6, Mengkun Yang2, Emma Niestroy2, Yu-Hwai Tsai5, Angeline Wu5, Sha Huang5, Ian A. Glass7, Sofia D. Merajver1,2, Jason R. Spence1,3,5,6,8,+
 
 * Authors contributed equally
+
+
 1 Rogel Cancer Center, University of Michigan Medical School, Ann Arbor, MI, USA
 2 Department of Internal Medicine, Division of Hematology and Oncology, University of Michigan Medical School, Ann Arbor, MI, USA
 3 Graduate Program in Cellular and Molecular Biology, University of Michigan Medical School, Ann Arbor, MI, USA
